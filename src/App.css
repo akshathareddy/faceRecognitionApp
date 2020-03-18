@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.flex-end{
+  display: flex;
+  justify-content: flex-end;
+}
+.margin0-auto {
+  margin: 0 auto;
+}
+.zindex-neg-1 {
+  position: fixed;
+  width: 100%;
+  z-index: -1;
+}
+.border-1-black-solid{
+  border-right: thin solid black !important;
+}
